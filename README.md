@@ -1,5 +1,5 @@
-# PAWSCONNECT
+# TINDOG
 WebDev 
 HTML CSS JS NODEJS 
 
-You can view at : https://github.com/Deekshithaoleti/PawsConnect.git
+You can view at : https://meet.google.com/agx-kiyx-mfu
